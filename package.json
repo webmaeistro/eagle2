@@ -2,12 +2,12 @@
   "name": "eagle2-project",
   "version": "1.0.0",
   "license": "MIT",
-  "description": "Crystallize headless ecommerce boilerplate using next.js",
+  "description": "Ornforlag website repo",
   "engines": {
     "node": ">=12.10"
   },
   "repository": {
-    "url": "git@github.com:CrystallizeAPI/crystallize-nextjs-boilerplate.git",
+    "url": "git@github.com:webmaeistro/eagle2.git",
     "type": "git"
   },
   "scripts": {
