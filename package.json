@@ -1,6 +1,6 @@
 {
-  "name": "crystallize-nextjs-boilerplate",
-  "version": "7.1.0",
+  "name": "eagle2-project",
+  "version": "1.0.0",
   "license": "MIT",
   "description": "Crystallize headless ecommerce boilerplate using next.js",
   "engines": {
@@ -70,5 +70,6 @@
     "lint-staged": "10.2.2",
     "node-fetch": "2.6.1",
     "prettier": "2.0.5"
-  }
+  },
+  "private": true
 }

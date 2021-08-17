@@ -21,16 +21,11 @@ jspm_packages/
 # local dotenv environment variables file
 .env*.local
 
-# Next build output
-.next
-
 # OSX Finder folder settings
 .DS_STORE
 
-# Vercel (previously Now) deployment settings
+# Vercel deployment settings
 .vercel
-.now
 
-# Lock files
-yarn.lock
-package-lock.json
+# Next build output
+.next
